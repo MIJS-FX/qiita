@@ -2,6 +2,7 @@
 
 ドキュメントについては以下を参照してください。
 
-http://qiita.com/drafts/05302aec04048e280dfe
-http://qiita.com/drafts/f4ad358e98f69adde0d5
+http://qiita.com/T_Umezaki/items/05302aec04048e280dfe
+http://qiita.com/T_Umezaki/items/f4ad358e98f69adde0d5
+
 
