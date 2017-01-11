@@ -136,7 +136,3 @@ for(i15 in 1:nrow_ashi15){
   i15 <- i15 + 1
 }
 write.csv(table_all, "GBPJPYALL.csv", quote=F,row.names=F)
-#table_ashi15 <- read.table("GBPJPY15.csv", header=F, sep=",")
-
-#x <- read.table("GBPJPYALL.csv", header=T, sep=",")
-#mean(x[,6])
